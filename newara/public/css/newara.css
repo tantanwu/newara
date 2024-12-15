@@ -104,7 +104,7 @@ body, .page-container {
 
 /* DASHBOARD DESIGN */
 .desk-sidebar-item{
-	line-height: 2.2;
+	line-height: 1.5;
 }
 
 .widget.links-widget-box, .widget.dashboard-widget-box {
@@ -121,8 +121,8 @@ body, .page-container {
 }
 
 .icon-md {
-	width: 30px;
-	height: 30px;
+	width: 20px;
+	height: 20px;
 }
 
 .onboard-spotlight {
