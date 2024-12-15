@@ -10,6 +10,7 @@
 	--sidebar-select-color: #017E8420;
 	--checkbox-gradient: linear-gradient(180deg, var(--btn-primary) -124.51%, var(--btn-primary) 100%);
 	--text-base: 14px;
+	--charts-tooltip-bg: #d38ec1;
 }
 
 /* login page */
