@@ -108,6 +108,10 @@ body, .page-container {
 	line-height: 1.5;
 }
 
+.widget.quick-list-widget-box {
+	border: 1px solid #714B6780;
+}
+
 .widget.links-widget-box, .widget.dashboard-widget-box {
 	border: 1px solid #714B6780;
 }
