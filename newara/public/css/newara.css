@@ -164,9 +164,18 @@ a.onboard-spotlight .link-content:hover {
 }
 
 /*  FORM DESIGN  */
+
 .form-group {
     margin-bottom: 0.5rem;
 }
+
+.form-message {
+    position: relative;
+    padding: 8px 10px;
+    font-size: var(--text-md, 13px);
+    margin-bottom: var(--margin-md);
+}
+
 .form-control, .frappe-control .ql-editor:not(.read-mode){
 	box-shadow: 0 0 0 1px rgba(124, 124, 124, 0.25) !important;
 }
