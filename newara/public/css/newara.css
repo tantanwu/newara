@@ -165,22 +165,28 @@ a.onboard-spotlight .link-content:hover {
 
 /*  FORM DESIGN  */
 
+/* 增加的样式 */
+
 .form-group {
     margin-bottom: 0.5rem;
 }
 
 .form-message {
     position: relative;
+    border-radius: unset;
     padding: 8px 10px;
     font-size: var(--text-md, 13px);
     margin-bottom: var(--margin-md);
 }
 
 .std-form-layout > .form-layout > .form-page {
+    border-radius: unset;
     border: 1px solid var(--border-color);
     box-shadow: none;
     background-color: var(--card-bg);
 }
+
+/* 增加的样式END */
 
 .form-control, .frappe-control .ql-editor:not(.read-mode){
 	box-shadow: 0 0 0 1px rgba(124, 124, 124, 0.25) !important;
