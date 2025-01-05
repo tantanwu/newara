@@ -190,6 +190,10 @@ a.onboard-spotlight .link-content:hover {
     background-color: var(--card-bg);
 }
 
+.search-dialog .search-header .search-input {
+    padding-bottom:;
+}
+
 /* 增加的样式END */
 
 .form-control, .frappe-control .ql-editor:not(.read-mode){
