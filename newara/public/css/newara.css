@@ -192,6 +192,9 @@ a.onboard-spotlight .link-content:hover {
 
 .search-dialog .search-header .search-input {
     padding-bottom:7px;
+}
+
+.search-dialog .search-header .search-icon {
     margin-left: 5px;
 }
 
