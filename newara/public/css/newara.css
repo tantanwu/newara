@@ -81,6 +81,10 @@
 
 /* PAGE DESIGN */
 
+body {
+    font-size: 1rem;
+}
+
 body, .page-container { 
 	background-color: var(--bg-color) !important;
 }
