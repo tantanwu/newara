@@ -81,10 +81,6 @@
 
 /* PAGE DESIGN */
 
-body {
-    font-size: 1rem;
-}
-
 body, .page-container { 
 	background-color: var(--bg-color) !important;
 }
@@ -196,6 +192,7 @@ a.onboard-spotlight .link-content:hover {
 
 .search-dialog .search-header .search-icon {
     margin-left: 5px;
+    font-size: 1rem;
 }
 
 /* 增加的样式END */
