@@ -201,6 +201,7 @@ a.onboard-spotlight .link-content:hover {
 }
 
 .standard-sidebar .standard-sidebar-section .standard-sidebar-label, .desk-sidebar .standard-sidebar-section .standard-sidebar-label, .search-dialog .search-results .search-sidebar .standard-sidebar-section .standard-sidebar-label {
+    font-size: 16px;
     font-weight: bold;
 }
 
