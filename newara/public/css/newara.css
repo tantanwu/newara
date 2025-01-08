@@ -200,6 +200,14 @@ a.onboard-spotlight .link-content:hover {
     height: 16px;
 }
 
+.standard-sidebar .standard-sidebar-section .standard-sidebar-label, .desk-sidebar .standard-sidebar-section .standard-sidebar-label, .search-dialog .search-results .search-sidebar .standard-sidebar-section .standard-sidebar-label {
+    font-weight: bold;
+}
+
+.standard-sidebar .standard-sidebar-item, .desk-sidebar .standard-sidebar-item, .search-dialog .search-results .search-sidebar .standard-sidebar-item {
+    font-weight: bold;
+}
+
 /* 增加的样式END */
 
 .form-control, .frappe-control .ql-editor:not(.read-mode){
