@@ -209,6 +209,14 @@ a.onboard-spotlight .link-content:hover {
     font-weight: bold;
 }
 
+.form-control {
+    background-color: #ffffff;
+}
+
+.control-label, .grid-heading-row {
+    font-weight: bold;
+}
+
 /* 增加的样式END */
 
 .form-control, .frappe-control .ql-editor:not(.read-mode){
