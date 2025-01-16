@@ -213,10 +213,6 @@ a.onboard-spotlight .link-content:hover {
     background-color: #ffffff;
 }
 
-.control-label, .grid-heading-row {
-    font-weight: bold;
-}
-
 /* 增加的样式END */
 
 .form-control, .frappe-control .ql-editor:not(.read-mode){
